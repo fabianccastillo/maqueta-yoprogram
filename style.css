@@ -1,0 +1,18 @@
+
+
+.encabezado {
+    display: flex;
+    background-color: #2d728f;
+    margin-bottom:0px;
+}
+
+article {
+    display: inline-block;
+}
+
+
+nav {
+    background-color: #3b8ea5;
+}
+
+
